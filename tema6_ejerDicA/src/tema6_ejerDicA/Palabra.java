@@ -5,9 +5,6 @@ public class Palabra {
 	String termino;
 	String definicion;
 	
-	Palabra(){
-		
-	}
 	Palabra(String termino, String definicion) {
 		super();
 		this.termino = termino;
